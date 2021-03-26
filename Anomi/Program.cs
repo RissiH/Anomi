@@ -5,7 +5,7 @@ namespace Anomi
     class Program
     {
         static void Main(string[] args)
-        {
+        { // Bumstick
             Console.WriteLine("Lube my assholes with mustard");
             while (true)
             {
