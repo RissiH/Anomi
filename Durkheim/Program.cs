@@ -6,7 +6,7 @@ namespace Durkheim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Marxism or Fuctionalism, please write in lower case.");
+            Console.WriteLine("Marxism or Functionalism, please write in lower case.");
             while (true)
             {
                 string input = Console.ReadLine();

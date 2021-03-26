@@ -21,7 +21,7 @@ namespace Anomi
                 }
                 else
                 {
-                    Console.WriteLine("The fuck you chattting");
+                    Console.WriteLine("The fuck you chatting");
                 }
                
             }
